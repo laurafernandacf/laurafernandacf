@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansys%20HFSS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black"/>
+  <img src="https://img.shields.io/badge/%20HFSS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black"/>
 </p>
 
 
