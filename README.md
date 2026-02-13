@@ -7,7 +7,6 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurafernandacf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurafernandacf&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurafernandacf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurafernandacf&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
