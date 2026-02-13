@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou Laura!
 
-<!--
-**laurafernandacf/laurafernandacf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Técnica de Informática e atualmente graduando Engenharia da Computação no Instituto Nacional de Telecomunicações (INATEL)
+- 🌱 Estudando Java e Python, com ênfase em Python para Otimização de Antenas simuladas no sofwtare Ansys HFSS
+- 📫 Contato: laura.ferreira@gec.inatel.br
 
-Here are some ideas to get you started:
+## 📊 Estatísticas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurafernandacf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurafernandacf&layout=compact&theme=tokyonight"/>
+</p>
+
