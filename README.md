@@ -1,6 +1,6 @@
 ## Olá, eu sou Laura!
 
-- 🔭 Técnica de Informática e atualmente graduando Engenharia da Computação no Instituto Nacional de Telecomunicações (INATEL)
+- 🔭 Técnica de Informática (Instituto Federal de Educação Ciência e Tecnologia) e atualmente graduando Engenharia da Computação no Instituto Nacional de Telecomunicações (INATEL)
 - 🌱 Estudando Java e Python, com ênfase em Python para Otimização de Antenas simuladas no sofwtare Ansys HFSS
 - 📫 Contato: laura.ferreira@gec.inatel.br
 
